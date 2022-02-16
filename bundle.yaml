@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cbj-kevin-dev-controller"
+description: "CloudBees CI configuration bundle for the cbj-kevin dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cbj-kevin/dev-controller"
+parent: "base"
